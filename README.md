@@ -15,4 +15,5 @@ Hello
 - [ ] Set flag
 
 I :eyes: you
-:kissing Face: :kissing face: my baby?
+
+:kissing_smiling_eyes: my baby?
