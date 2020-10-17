@@ -33,4 +33,3 @@ I :eyes: you
 10.Test for pull request with *CONTRIBUTING.md* file
 
 11.Test for squash
- Test for squash Test for squash
