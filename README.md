@@ -29,3 +29,5 @@ Hello
 I :eyes: you
 
 :kissing_smiling_eyes: my baby?
+
+10.Test for pull request with *CONTRIBUTING.md* file
