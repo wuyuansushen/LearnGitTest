@@ -33,3 +33,5 @@ I :eyes: you
 10.Test for pull request with *CONTRIBUTING.md* file
 
 11.Test for squash
+
+12.Test **GitHub Page** in */docs* floder :yum:
