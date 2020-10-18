@@ -45,3 +45,5 @@ I :eyes: you
 16.Test for stash
 
 17.Test signed gpg merge
+
+18.squash merge
