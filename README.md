@@ -37,3 +37,5 @@ I :eyes: you
 12.Test **GitHub Page** in */docs* floder :yum:
 
 13.Use *Double dots* syntax to check commit for differences between BranchA and BranchB
+
+14.Test Triple dots
