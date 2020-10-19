@@ -49,3 +49,5 @@ I :eyes: you
 18.squash merge
 
 19.one to more  
+
+20.git reset test(--soft, --hard, --mixed)
