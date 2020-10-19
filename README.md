@@ -51,3 +51,5 @@ I :eyes: you
 19.one to more  
 
 20.git reset test(--soft, --hard, --mixed)
+
+21.Add commit with sign
