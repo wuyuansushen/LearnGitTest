@@ -9,3 +9,6 @@
 20.git reset test(--soft, --hard, --mixed)
 
 21.Add commit with sign
+22.blame copy inspect test
+22.blame copy inspect test
+22.blame copy inspect test
