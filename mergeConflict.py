@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 <<<<<<< HEAD
-print("hello world?");  
+print("hell world?");  
 exit();
