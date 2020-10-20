@@ -55,3 +55,5 @@ I :eyes: you
 21.Add commit with sign
 
 22.blame copy inspect test
+
+23.bisect A
