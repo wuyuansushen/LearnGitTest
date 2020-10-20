@@ -1,4 +1,3 @@
 #!/usr/bin/python3
-print("hello worl?!--other");    
->>>>>>> whitespace
+print("hello worl?!--main");    
 exit();
