@@ -57,3 +57,5 @@ I :eyes: you
 22.blame copy inspect test
 
 23.bisect A
+
+24.bisect B
