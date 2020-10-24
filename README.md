@@ -66,4 +66,3 @@ I :eyes: you
 
 27.plumbing git command
 
-28.This is a hidden branch
