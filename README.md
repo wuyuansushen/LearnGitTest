@@ -66,4 +66,4 @@ I :eyes: you
 
 27.plumbing git command
 
-28.recovery reflog
+28.recovery reflog.
